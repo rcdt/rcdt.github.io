@@ -5,6 +5,7 @@ Rutgers Chinese Dance Troupe
 - [ ] "Upcoming Events" section
 - [ ] Finish footer
   - [ ] sponsors
+- [ ] Ask Liz about:
   - [ ] gallery images
   - [ ] videos
-- [ ] Write instructions for editing / chmod 707 here
+- [ ] Write instructions for Catherine
