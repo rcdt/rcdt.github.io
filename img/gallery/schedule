@@ -1,0 +1,2 @@
+git rm jump.txt
+git commit -m "remove jump.txt"
