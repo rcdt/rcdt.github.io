@@ -1,3 +1,0 @@
-git add <schedule>/
-git commit -m "Schedule Test"
-git push -u schedule.png master
