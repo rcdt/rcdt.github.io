@@ -3,9 +3,11 @@ Rutgers Chinese Dance Troupe
 - [x] Insert an example of eboard panel
 - [x] Finish "Join Us" section
 - [x] "Upcoming Events" section
-- [ ] Finish footer
-  - [ ] sponsors
-- [ ] Ask Liz about:
-  - [ ] gallery images
-  - [ ] videos
-- [ ] Write instructions for Catherine
+- [x] Finish footer
+  - [x] sponsors
+- [x] Ask Liz about:
+  - [x] gallery images
+  - [x] videos
+- [x] Write instructions for Catherine...?
+
+Catherine: I think you know how to use this now! Will check back occasionally. ;)
