@@ -1,17 +1,17 @@
 Rutgers Chinese Dance Troupe
 ============================
-Update:
-Index- 
+-Update:
+-Index- 
   main events-oscar awards, new eboard
   change bottom picture
-About Us- check
-Eboard- 
+-About Us- check
+-Eboard- 
   get pics
   get info
-Gallery-
+-Gallery-
   update pics- put 15isj, takes long to load
   include new dances, asian oscar
-Performances
+-Performances
     2015 showcase
-Events
+-Events
   google, and thats it
