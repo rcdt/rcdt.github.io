@@ -1,17 +1,10 @@
 Rutgers Chinese Dance Troupe
 ============================
--Update:
--Index- 
-  main events-oscar awards, new eboard
-  change bottom picture
--About Us- check
--Eboard- 
-  get pics
-  get info
--Gallery-
-  update pics- put 15isj, takes long to load
-  include new dances, asian oscar
--Performances
-    2015 showcase
--Events
-  google, and thats it
++-Index
+  +change bottom picture
+  +add a recent news section, get rid of events tab?
+  +make the pic header a set size
++-About Us- revise if needed
++-Eboard- new pictures, reformat member display
++-Gallery-update pics, reduce loading time
++-Performances- update
