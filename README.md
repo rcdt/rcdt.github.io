@@ -10,6 +10,10 @@ Index
   - [ ]new pictures
   - [ ]reformat member display
 - Gallery-
+  - New format?
+      >Co-presidents, Senior Advisor
+      >Vice president, Secretary, Treasurer
+      >Public Relations, Webmistress, w's apprentice
   - [ ]update pics
   - [ ]reduce loading time
 - Performances- 
