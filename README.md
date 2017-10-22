@@ -1,9 +1,11 @@
 #Rutgers Chinese Dance Troupe
 ============================
 Index
-  - [ ]change bottom picture
+  - [ ]change bottom
   - [ ]add a recent news section, get rid of events tab?
   - [ ]make the pic header a set size
+  - [ ]cleanup events
+  - [ ]resize pictures
 -About Us-
   - [ ]revise if needed
 - Eboard- 
@@ -13,5 +15,9 @@ Index
  New format? >Co-presidents, Senior Advisor >Vice president, Secretary, Treasurer >Public Relations, Webmaster, WA
   - [ ]update pics
   - [ ]reduce loading time
+  - [ ]Add more pictures?
 - Performances- 
   - [ ]update
+  - [ ]Spring '16
+  - [ ]Fall '16
+  - [ ]Spring '17
