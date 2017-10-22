@@ -1,12 +1,12 @@
 #Rutgers Chinese Dance Troupe
 ============================
-Index
+- Index -
   - [ ]change bottom
   - [ ]add a recent news section, get rid of events tab?
   - [ ]make the pic header a set size
   - [ ]cleanup events
   - [ ]resize pictures
--About Us-
+- About Us-
   - [ ]revise if needed
 - Eboard- 
   - [ ]new pictures
