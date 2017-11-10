@@ -5,7 +5,6 @@
   - [ ]add a recent news section, get rid of events tab?
   - [ ]make the pic header a set size
   - [ ]cleanup events
-  - [ ]resize pictures
 - About Us-
   - [ ]revise if needed
 - Eboard- 
