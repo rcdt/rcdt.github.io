@@ -4,14 +4,14 @@
   - [ ]change bottom
   - [ ]add a recent news section, get rid of events tab?
   - [ ]make the pic header a set size
-  - [ ]cleanup events
+  - [x]cleanup events
 - About Us-
   - [ ]revise if needed
 - Eboard- 
-  - [ ]new pictures
+  - [x]new pictures
   - [ ]reformat member display
+     New format? >Co-presidents, Senior Advisor >Vice president, Secretary, Treasurer >Public Relations, Webmaster, WA
 - Gallery-
- New format? >Co-presidents, Senior Advisor >Vice president, Secretary, Treasurer >Public Relations, Webmaster, WA
   - [ ]update pics
   - [ ]reduce loading time
   - [ ]Add more pictures?
